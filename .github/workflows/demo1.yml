@@ -3,7 +3,7 @@ name: Java Maven CI with Node.js and Appium
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
